@@ -22,7 +22,7 @@ The goal was to evaluate revenue growth, product contribution, and forecast net 
   - Organic Shampoo
   - 50ml Shampoo
 
-![Dashboard](profitability_matrix)
+![Dashboard](images/profitability_matrix.png)
 
 ## Key Skills Demonstrated
 - Data cleaning
