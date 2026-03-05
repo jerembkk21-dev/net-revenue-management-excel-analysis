@@ -30,7 +30,7 @@ The goal was to evaluate revenue growth, product contribution, and forecast net 
 
 ![Dashboard](images/forecast_2024.png)
 
-![Dashboard](images/estimated_net_sales_2024)
+![Dashboard](images/estimated_net_sales_2024.png)
 
 ## Key Skills Demonstrated
 - Data cleaning
