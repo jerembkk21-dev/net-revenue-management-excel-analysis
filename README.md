@@ -22,7 +22,7 @@ The goal was to evaluate revenue growth, product contribution, and forecast net 
   - Organic Shampoo
   - 50ml Shampoo
 
-![Dashboard]estimated_net_sales_2024
+![Dashboard](estimated_net_sales_2024.png)
 
 ## Key Skills Demonstrated
 - Data cleaning
