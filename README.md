@@ -24,6 +24,14 @@ The goal was to evaluate revenue growth, product contribution, and forecast net 
 
 ![Dashboard](images/profitability_matrix.png)
 
+![Dashboard](images/market_share.png)
+
+![Dashboard](images/promotion_graph.png)
+
+![Dashboard](images/forecast_2024.png)
+
+![Dashboard](images/estimated_net_sales_2024)
+
 ## Key Skills Demonstrated
 - Data cleaning
 - Revenue analysis
